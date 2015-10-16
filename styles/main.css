@@ -35,7 +35,7 @@ nav {
     float:left;
     }
   a.nav{
-    font-family:serif;
+    font-family:verdana;
     font-size:20pt;
     color:#000000;
     padding:2px 20px;
@@ -44,7 +44,7 @@ nav {
     text-decoration:none;
     }
   a.nav:visited{
-    font-family:serif;
+    font-family:verdana;
     font-size:20pt;
     color:#000000;
     padding:2px 20px;
@@ -54,7 +54,7 @@ nav {
     }
   a.nav:hover{
     background-color:#DE7F18;
-    font-family:serif;
+    font-family:verdana;
     font-size:20pt;
     color:#000000;
     padding:2px 20px;
@@ -104,5 +104,4 @@ ul.header li.header
     text-align:left;
     font-size:16px;
     overflow:hidden;
-    font-family:verdana;
 }
