@@ -24,7 +24,7 @@ header {
   text-align:center;
   padding:5px; 
   }
-nav {
+nav.primary {
     background-color:#E28929;
     height:60px;
     width:100%;
@@ -33,6 +33,17 @@ nav {
     border:3px solid #000000;
     overflow:auto;
     }
+nav.toc {
+    line-height:30px;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	
+}
+a.navtoc{
+    display: block;
+    width: 60px;
+}
   a.nav{
     font-family:verdana;
     font-size:20pt;
