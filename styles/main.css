@@ -73,8 +73,9 @@ aside {
     clear:both;
     text-align:left;
     max-width:18%;
-    height:100%;
+    height:auto;
     border:3px solid #000000;
+    overflow:auto;
     }
   a.aside{
     font-family:verdana;
