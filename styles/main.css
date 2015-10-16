@@ -65,6 +65,7 @@ section {
     max-width:80%;
     float:left;
     padding:10px;
+    overflow:auto;
     }
 aside {
     background-color:#FEE2C1;
