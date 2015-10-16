@@ -63,12 +63,13 @@ nav {
     }
 section {
     background-color:#F0DEB3;
-    max-width:80%;
+    width:350px;
     float:left;
     padding:10px;
     overflow:auto;
     }
 aside {
+    display: block;
     background-color:#FEE2C1;
     clear:both;
     text-align:left;
