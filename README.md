@@ -1,10 +1,10 @@
 # Introductieopdracht Webdesign
 
 ## Doelen
-* [ ] index.html afronden
+* [x] index.html afronden
   * [x] Menu
   * [x] Kort overzicht van wat we doen
-  * [ ] afbeelding voor de title
+  * [x] afbeelding voor de title
 * [ ] contact.html afronden
   * [ ] afbeelding voor de title
   * [ ] info over leden
@@ -13,7 +13,7 @@
   * [ ] voorwaarden om mee te kunnendoen aan het team
 * [ ] css afronden
   * [x] Menu bar
-  * [ ] Header bar
+  * [x] Header bar
   * [ ] zijlijn
   * [ ] verschillende text types
   * [ ] HTML af -> CSS af-> doel af -> wij zijn awesome
