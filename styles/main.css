@@ -20,7 +20,7 @@ body {
 }
 /*===============HTML5 LAYOUT===============*/
 header {
-  background-color:#F0DEB3;
+  background-color:#EFE0C4;
   text-align:center;
   padding:5px; 
   }
@@ -74,6 +74,13 @@ a.navtoc{
     }
 section {
     background-color:#F0DEB3;
+    width:500px;
+    float:left;
+    padding:10px;
+    overflow:auto;
+    }
+sectionleft {
+    background-color:#EBD8AB;
     width:500px;
     float:left;
     padding:10px;
