@@ -79,7 +79,7 @@ section {
     padding:10px;
     overflow:auto;
     }
-sectionleft {
+section.left {
     background-color:#EBD8AB;
     width:500px;
     float:left;
