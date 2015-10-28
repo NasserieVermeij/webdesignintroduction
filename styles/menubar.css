@@ -131,7 +131,7 @@
   transition: height .2s ease;
 }
 #cssmenu ul li:hover > ul > li {
-  height: 32px;
+  height: 26px;
 }
 #cssmenu ul ul li a {
   padding: 10px 20px;
@@ -197,7 +197,7 @@
   #cssmenu ul ul li,
   #cssmenu ul li:hover > ul > li {
     width: 100%;
-    height: auto;
+    height: 26px;
     border-top: 1px solid rgba(120, 120, 120, 0.15);
   }
   #cssmenu ul li a,
@@ -274,7 +274,7 @@
     top: 0;
     display: block;
     border-left: 1px solid rgba(120, 120, 120, 0.15);
-    height: 52px;
+    height: 26px;
     width: 52px;
     cursor: pointer;
   }
