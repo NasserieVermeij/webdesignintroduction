@@ -85,6 +85,7 @@ sectionleft {
     float:left;
     padding:10px;
     overflow:auto;
+    margin-right:10px;
     }
 /*===============PLAATJES===============*/
 img.logo{
