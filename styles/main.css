@@ -14,11 +14,11 @@ p.small{
   color: #000000;
   }
 
-/* BODY COLOR */
+/*===============BODY COLOR===============*/
 body {
   background-color:#EFE0C4;
 }
-/* HTML5 LAYOUT */
+/*===============HTML5 LAYOUT===============*/
 header {
   background-color:#FEE2C1;
   text-align:center;
@@ -79,46 +79,8 @@ section {
     padding:10px;
     overflow:auto;
     }
-aside {
-    display: block;
-    background-color:#FEE2C1;
-    clear:both;
-    text-align:left;
-    max-width:18%;
-    height:auto;
-    border:3px solid #000000;
-    overflow:auto;
-    }
-  a.aside{
-    font-family:verdana;
-    font-size:14pt;
-    color:#000000;
-    text-decoration:none;
-    }
-  a.aside:visited{
-    font-family:verdana;
-    font-size:14pt;
-    color:#000000;
-    text-decoration:none;
-    }
-  a.aside:hover{
-    font-family:verdana;
-    font-size:15pt;
-    color:#000000;
-    text-decoration:none;
-    }
-    
-ul.header li.header
-{
-    display:inline;
-    padding-left:5px;
-    padding-right:5px;
-    text-align:left;
-    font-size:16px;
-    overflow:hidden;
-}
-/*========PLAATJES========*/
+/*===============PLAATJES===============*/
 img.logo{
-  width:200px;
-  height:150px;
+  width:150px;
+  height:105px;
 }
