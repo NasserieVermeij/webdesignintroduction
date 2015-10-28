@@ -117,3 +117,8 @@ ul.header li.header
     font-size:16px;
     overflow:hidden;
 }
+/*========PLAATJES========*/
+img.logo{
+  width:200px;
+  height:150px;
+}
