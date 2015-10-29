@@ -1,4 +1,4 @@
-@media screen and (max-width: 500px)
+@media screen and (max-width: 500px){
 p.large{
   font-family: verdana;
   font-size: 10pt;
@@ -13,4 +13,5 @@ p.small{
   font-family: verdana;
   font-size: 7pt;
   color: #000000;
+}
 }
