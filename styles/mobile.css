@@ -24,6 +24,7 @@
     float:left;
     padding:10px;
     margin-bottom:10px;
+    margin-right:0px;
     overflow:auto;
     }
   section.left 
@@ -31,7 +32,7 @@
     background-color:#EBD8AB;
     width:100%;
     float:left;
-    padding:3px;
+    padding:10px;
     overflow:auto;
     margin-bottom:10px;
     margin-right:0px;
