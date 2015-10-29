@@ -1,28 +1,32 @@
-@media screen and (max-width: 500px)
-{
-p.large{
-  font-family: verdana;
-  font-size: 10pt;
-  color: #313131;
-  }
-p.normal{
-  font-family: verdana;
-  font-size: 8pt;
-  color: #000000;
-  }
-p.small{
-  font-family: verdana;
-  font-size: 7pt;
-  color: #000000;
-  }
-section {
+@media screen and (max-width: 500px){
+  p.large
+    {
+    font-family: verdana;
+    font-size: 10pt;
+    color: #313131;
+    }
+  p.normal
+    {
+    font-family: verdana;
+    font-size: 8pt;
+    color: #000000;
+    }
+  p.small
+    {
+    font-family: verdana;
+    font-size: 7pt;
+    color: #000000;
+    }
+  section 
+    {
     background-color:#F0DEB3;
     width:100%;
     float:left;
     padding:10px;
     overflow:auto;
     }
-section.left {
+  section.left 
+    {
     background-color:#EBD8AB;
     width:100%;
     float:left;
@@ -31,8 +35,5 @@ section.left {
     margin-bottom:10px;
     margin-right:0px;
     }
-  
-}
-}
 }
 
