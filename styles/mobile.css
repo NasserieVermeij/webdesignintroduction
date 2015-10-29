@@ -28,7 +28,8 @@ section.left {
     float:left;
     padding:3px;
     overflow:auto;
-    margin-right:10px;
+    margin-bottom:10px;
+    margin-right:0px;
     }
   
 }
