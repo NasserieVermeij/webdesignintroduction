@@ -74,14 +74,14 @@ a.navtoc{
     }
 section {
     background-color:#F0DEB3;
-    width:500px;
+    width:55%;
     float:left;
     padding:10px;
     overflow:auto;
     }
 section.left {
     background-color:#EBD8AB;
-    width:500px;
+    width:30%;
     float:left;
     padding:10px;
     overflow:auto;
