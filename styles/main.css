@@ -93,27 +93,8 @@ img.logo{
   height:105px;
 }
 /*============Invisable Button=============*/
-  a.ppage {
-    font-family:verdana;
-    font-size:0pt;
-    text-decoration:none;
-    }
-  a.ppage:link {
-    font-family:verdana;
-    font-size:0pt;
-    text-decoration:none;
-    }
-  a.ppage:visited {
-    font-family:verdana;
-    font-size:0pt;
-    text-decoration:none;
-    }
-  a.ppage:hover {
-    font-family:verdana;
-    font-size:0pt;
-    text-decoration:none;
-    }
-  a.ppage:active {
-    font-family:verdana;
-    font-size:0pt;
-    text-decoration:none;
+  a.ppage {font-size:0pt;}
+  a.ppage:link {font-size:0pt;}
+  a.ppage:visited {font-size:0pt;}
+  a.ppage:hover {font-size:0pt;}
+  a.ppage:active {font-size:0pt;}
