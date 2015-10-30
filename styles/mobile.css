@@ -27,6 +27,7 @@
     width:48%;
     height:20px;
     text-align:right;
+    padding:5px;
     }
   a.ppage {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
   a.ppage:link {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
