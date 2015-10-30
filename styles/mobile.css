@@ -37,5 +37,48 @@
     margin-bottom:10px;
     margin-right:0px;
     }
+  td.ppage1 {
+    border-style:solid;
+    border-width:2px;
+    border-color:#222222;
+    background-color:#111111;
+    width:48%;
+    height:20px;
+    text-align:left;
+    }
+  td.ppage1 {
+    border-style:solid;
+    border-width:2px;
+    border-color:#222222;
+    background-color:#111111;
+    width:48%;
+    height:20px;
+    text-align:right;
+    }
+  a.ppage {
+    font-family:verdana;
+    font-size:13pt;
+    text-decoration:none;
+    }
+  a.ppage:link {
+    font-family:verdana;
+    font-size:13pt;
+    text-decoration:none;
+    }
+  a.ppage:visited {
+    font-family:verdana;
+    font-size:13pt;
+    text-decoration:none;
+    }
+  a.ppage:hover {
+    font-family:verdana;
+    font-size:14pt;
+    text-decoration:none;
+    }
+  a.ppage:active {
+    font-family:verdana;
+    font-size:13pt;
+    text-decoration:none;
+    }
 }
 
