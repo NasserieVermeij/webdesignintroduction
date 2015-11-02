@@ -27,11 +27,5 @@
     width:48%;
     height:20px;
     text-align:right;
-    padding:5px;
+    padding: 5px;
     }
-  a.ppage {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
-  a.ppage:link {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
-  a.ppage:visited {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
-  a.ppage:hover {font-family:verdana;font-size:14pt;color:#000000;text-decoration:none;}
-  a.ppage:active {font-family:verdana;font-size:13pt;color:#000000;text-decoration:none;}
-}
