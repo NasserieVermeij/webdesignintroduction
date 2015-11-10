@@ -1,5 +1,10 @@
 # Introductieopdracht Webdesign
 
+## Gebruik
+Ga naar http://nasserievermeij.github.io/ voor de meest recente versie.
+
+Rawgit is voor testen.
+
 ## Doelen
 * [x] index.html afronden
   * [x] Menu
