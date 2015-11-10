@@ -34,9 +34,9 @@ nav {
     }
 nav.toc {
     line-height:30px;
-    min-height: 100%;
-    min-width:11em;
-    position: absolute; 
+    height:300px;
+    width:100px;
+    float:left;
     padding:5px;	
 }
 a.navtoc{
