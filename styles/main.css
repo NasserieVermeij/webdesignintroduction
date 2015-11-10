@@ -83,7 +83,7 @@ section.left {
     padding:3px;
     overflow:auto;
     margin-right:10px;
-  position: relative;
+  position: absolute;
   float:left;
   width:170px; 
   top: 0px;
