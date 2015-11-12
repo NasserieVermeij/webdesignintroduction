@@ -11,14 +11,14 @@ Rawgit is voor testen.
   * [x] plaatje boven het menu
   * [x] Kort overzicht van wat we doen
   * [x] afbeelding voor de title
-* [ ] contact.html afronden
+* [x] contact.html afronden
   * [x] Menu
   * [x] plaatje boven het menu
   * [x] afbeelding voor de title
   * [ ] info over leden
   * [x] contact via mail verzonden van deze pagina (via chatroom)
-  * [ ] meekunnen doen aan het team
-  * [ ] voorwaarden om mee te kunnendoen aan het team
+  * [x] meekunnen doen aan het team
+  * [x] voorwaarden om mee te kunnendoen aan het team
 * [x] css afronden
   * [x] Menu bar
   * [x] Header bar
@@ -26,5 +26,5 @@ Rawgit is voor testen.
   * [x] verschillende text types
 * [ ] Mobielvriendelijk maken
   * [ ] Layout
-  * [ ] Links
+  * [x] Links
 * [ ] HTML af -> CSS af-> doel af -> wij zijn awesome
