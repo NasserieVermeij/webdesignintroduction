@@ -2,8 +2,8 @@
   p.large{font-family: verdana;font-size: 10pt;color: #313131;}
   p.normal{font-family: verdana;font-size: 8pt;color: #000000;}
   p.small{font-family: verdana;font-size: 7pt;color: #000000;}
-  section {background-color:#F0DEB3;width:100%;float:left;padding:10px;margin-bottom:10px;margin-right:0px;overflow:auto;}
-  section.left {background-color:#EBD8AB;width:100%;float:left;padding:10px;overflow:auto;margin-bottom:10px;margin-right:0px;}
+  section {background-color:#F0DEB3;width:100%;float:left;padding:10px;margin-bottom:10px;margin-right:8px;overflow:auto;}
+  section.left {background-color:#EBD8AB;width:100%;float:left;padding:10px;overflow:auto;margin-bottom:10px;margin-right:8px;}
   tr.ppage {
     width:90%;
     height:20px;
