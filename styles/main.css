@@ -91,9 +91,8 @@ img.logo{
   width:175px;
   height:105px;
 }
-/*============Invisable Button=============*/
-  a.ppage {font-size:0pt;}
-  a.ppage:link {font-size:0pt;}
-  a.ppage:visited {font-size:0pt;}
-  a.ppage:hover {font-size:0pt;}
-  a.ppage:active {font-size:0pt;}
+
+/*==============h2 Verdana==============*/
+h2 {
+  font-family:verdana;
+}
