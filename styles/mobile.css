@@ -2,30 +2,5 @@
   p.large{font-family: verdana;font-size: 10pt;color: #313131;}
   p.normal{font-family: verdana;font-size: 8pt;color: #000000;}
   p.small{font-family: verdana;font-size: 7pt;color: #000000;}
-  section {background-color:#F0DEB3;float:left;padding:10px;margin-bottom:10px;margin-right:8px;overflow:auto;}
-  section.left {background-color:#EBD8AB;float:left;padding:10px;overflow:auto;margin-bottom:10px;margin-right:8px;}
-  tr.ppage {
-    width:90%;
-    height:20px;
-    background-color:#000000;
-  }
-  td.ppage1 {
-    border-style:solid;
-    border-width:2px;
-    border-color:#333333;
-    background-color:#111111;
-    width:48%;
-    height:20px;
-    text-align:left;
-    padding: 5px;
-    }
-  td.ppage2 {
-    border-style:solid;
-    border-width:2px;
-    border-color:#333333;
-    background-color:#111111;
-    width:48%;
-    height:20px;
-    text-align:right;
-    padding: 5px;
-    }
+  section {background-color:#F0DEB3;padding:10px;margin-bottom:10px;margin-right:8px;overflow:auto;}
+  section.left {background-color:#EBD8AB;padding:10px;overflow:auto;margin-bottom:10px;margin-right:8px;}
