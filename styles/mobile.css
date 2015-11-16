@@ -2,5 +2,5 @@
   p.large{font-family: verdana;font-size: 10pt;color: #313131;}
   p.normal{font-family: verdana;font-size: 8pt;color: #000000;}
   p.small{font-family: verdana;font-size: 7pt;color: #000000;}
-  section {background-color:#F0DEB3;padding:10px;margin-bottom:10px;margin-right:8px;overflow:auto;}
-  section.left {background-color:#EBD8AB;padding:10px;overflow:auto;margin-bottom:10px;margin-right:8px;}
+  section {background-color:#F0DEB3;padding:10px;margin-bottom:10px;margin-right:8px;overflow:auto;width:90%;}
+  section.left {background-color:#EBD8AB;padding:10px;overflow:auto;margin-bottom:10px;margin-right:8px;width:90%;}
