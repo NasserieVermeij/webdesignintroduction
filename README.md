@@ -24,7 +24,7 @@ Rawgit is voor testen.
   * [x] Header bar
   * [x] zijlijn
   * [x] verschillende text types
-* [ ] Mobielvriendelijk maken
-  * [ ] Layout
+* [x] Mobielvriendelijk maken
+  * [x] Layout
   * [x] Links
-* [ ] HTML af -> CSS af-> doel af -> wij zijn awesome
+* [x] HTML af -> CSS af-> doel af -> wij zijn awesome
