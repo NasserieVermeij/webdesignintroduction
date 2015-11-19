@@ -15,7 +15,7 @@ Rawgit is voor testen.
   * [x] Menu
   * [x] plaatje boven het menu
   * [x] afbeelding voor de title
-  * [ ] info over leden
+  * [x] info over leden
   * [x] contact via mail verzonden van deze pagina (via chatroom)
   * [x] meekunnen doen aan het team
   * [x] voorwaarden om mee te kunnendoen aan het team
