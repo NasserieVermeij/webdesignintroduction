@@ -26,7 +26,7 @@
 }
 #cssmenu {
   width: auto;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   line-height: 1;
   background: #EBD8AB;
 }
@@ -180,4 +180,13 @@
 }
 #cssmenu ul ul li.has-sub:hover > a::after {
   border-color: #EBD8AB;
+}
+
+/*====FONT FACE===*/
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://fonts.gstatic.com/s/ubuntu/v8/sDGTilo5QRsfWu6Yc11AXg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
