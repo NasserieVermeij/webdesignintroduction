@@ -73,7 +73,7 @@ a.navtoc{
     }
 section {
     background-color:#F0DEB3;
-    max-width:50%;
+    max-width:100%;
     float:left;
     padding:10px;
     overflow:auto;
