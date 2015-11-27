@@ -27,6 +27,7 @@
 #cssmenu {
   width: auto;
   font-family: 'Ubuntu';
+  font-size:15pt;
   line-height: 1;
   background: #EBD8AB;
 }
@@ -64,7 +65,8 @@
 }
 #cssmenu > ul > li > a {
   padding: 20px;
-  font-size: 12px;
+  font-size: 15pt;
+  font-family:'Ubuntu';
   text-decoration: none;
   text-transform: uppercase;
   color: #000000;
@@ -136,7 +138,8 @@
 #cssmenu ul ul li a {
   padding: 10px 20px;
   width: 160px;
-  font-size: 12px;
+  font-size: 15pt;
+  font-family:'Ubuntu';
   background: #333333;
   text-decoration: none;
   color: #dddddd;
