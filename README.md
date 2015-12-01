@@ -3,7 +3,9 @@
 ## Gebruik
 Ga naar http://nasserievermeij.github.io/ voor de meest recente versie.
 
-Rawgit is voor testen.
+mogelijk gemaakt door:
+
+![logo](https://leerlingen.amstelveencollege.nl/data/wcf/WP2/images/logo.gif) & ![Logo](http://nasserievermeij.github.io/images/NV_Logo.png)
 
 ## Doelen
 * [x] index.html afronden
